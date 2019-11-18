@@ -20,7 +20,7 @@
   ---
 - #### 工作中的优缺点
   - 优点:
-    - 知识面广，前端（React, Vue, WPA, Puppeteer...） -> 服务端（PHP，node, mongoDB...）
+    - 知识面广，前端（React, Vue, WPA, Puppeteer, 前端微服务， 前端serverless...） -> 服务端（PHP，node, mongoDB...）
     - 经验丰富，移动web -> pc web, 微信小程序, 快应用 -> Hyper APP
     - 热衷追求新的技术、事物
     - 善于使用调试工具
